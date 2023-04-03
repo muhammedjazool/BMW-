@@ -78,6 +78,7 @@ ul{
     height: 60px;
     background-color: #fff;
     position: fixed;
+    bottom:-1px;
 }
 .logobox{
     width:100%;
